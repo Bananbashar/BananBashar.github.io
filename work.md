@@ -1,6 +1,6 @@
 ---
 title: work
-image: pic02.jpg
+image: 6.jpg
 ---
 Here you'll find a selection of my work in medical research and data analysis using R.  
 Each project reflects my commitment to combining clinical knowledge with data science tools to generate meaningful insights.
