@@ -1,6 +1,6 @@
 ---
 title: about
-image: pic03.jpg
+image: 3.jpg
 ---
 I am a clinical pharmacist passionate about medical research and data analysis using R.  
 I focus on leveraging data science to improve healthcare outcomes and contribute to impactful research projects.  
