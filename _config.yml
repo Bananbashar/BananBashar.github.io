@@ -2,11 +2,9 @@
 title: Banan Al-Jarrah Portfolio
 email: bbaljarrah20@ph.just.edu.jo
 description: A portfolio showcasing my work in medical research and data analysis using R.
+baseurl: ""  # ← أضفناها هون!
 url: "https://bananbashar.github.io"
 author: Banan Al-Jarrah
-
-
-
 icon: fa-diamond
 
 # Social settings 
