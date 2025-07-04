@@ -2,6 +2,8 @@
 title: work
 image: pic02.jpg
 ---
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
+Here you'll find a selection of my work in medical research and data analysis using R.  
+Each project reflects my commitment to combining clinical knowledge with data science tools to generate meaningful insights.
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+👉 You can explore my full portfolio, including PDF reports and R code, on  
+<a href="https://github.com/Bananbashar/Medical-projects" target="_blank">my R projects repository</a>.
