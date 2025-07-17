@@ -1,18 +1,10 @@
-# Site settings
-title: Banan Al-Jarrah Portfolio
-email: bbaljarrah20@ph.just.edu.jo
-description: A portfolio showcasing my work in medical research and data analysis using R.
-baseurl: ""  # ← أضفناها هون!
-url: "https://bananbashar.github.io"
-author: Banan Al-Jarrah
-icon: fa-diamond
+Bb Jarrah, [7/17/2025 7:30 PM]
+title: "Banan Aljarrah"
+description: "Clinical Pharmacy Student | R for Health Data | Data Storytelling"
+theme: jekyll-theme-minimal
+show_downloads: false
+github:
+  is_project_page: false
 
-# Social settings 
-github_url: https://github.com/Bananbashar
-linkedin_url: https://www.linkedin.com/in/banan-al-jarrah-aba125357
 
-# Build settings
-markdown: kramdown
-
-sass:
-  style: compressed
+![Alt text for screen readers](assets/images/your-6.jpg)
