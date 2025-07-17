@@ -1,3 +1,4 @@
+![My Photo](6.png)
 # Welcome!
 
 I'm Banan Aljarrah, a Clinical Pharmacy student passionate about medical data analysis using R.
